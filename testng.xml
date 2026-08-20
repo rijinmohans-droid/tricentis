@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+    
     <class name="testpkg.Logintest"/>
      <class name="testpkg.Producthometest"/>
       <class name="testpkg.Booksproducttest"/>
@@ -18,15 +19,7 @@
             <class name="testpkg.CheckoutdetailsTest"/>
             <class name="testpkg.Searchbarsearchingtest"/>
             <class name="testpkg.AllLinksTest"/>
-            
-  
-      
-     
-    
-     
-      
-     
-      
+           
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
