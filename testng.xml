@@ -3,7 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-    
+
+    <class name="testpkg.Registertest"/>
     <class name="testpkg.Logintest"/>
      <class name="testpkg.Producthometest"/>
       <class name="testpkg.Booksproducttest"/>
