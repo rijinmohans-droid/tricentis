@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="92" passed="92" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-19T23:36:52 IST" name="Suite" finished-at="2026-08-19T23:59:53 IST" duration-ms="1380820">
+    <groups>
+    </groups>
+    <test started-at="2026-08-19T23:36:52 IST" name="Test" finished-at="2026-08-19T23:59:53 IST" duration-ms="1380820">
+      <class name="testpkg.Apparelproducttest">
+        <test-method signature="apparelandshoesclick()[pri:1, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:41:13 IST" name="apparelandshoesclick" finished-at="2026-08-19T23:41:20 IST" duration-ms="6534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apparelandshoesclick -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:41:20 IST" name="browserClose" finished-at="2026-08-19T23:41:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=apparelandshoesclick status=SUCCESS method=Apparelproducttest.apparelandshoesclick()[pri:1, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="addtocartprdt1()[pri:2, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:41:20 IST" name="addtocartprdt1" finished-at="2026-08-19T23:41:40 IST" duration-ms="20733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt1 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:41:40 IST" name="browserClose" finished-at="2026-08-19T23:41:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt1 status=SUCCESS method=Apparelproducttest.addtocartprdt1()[pri:2, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="addtocartprdt2()[pri:3, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:41:40 IST" name="addtocartprdt2" finished-at="2026-08-19T23:42:16 IST" duration-ms="36243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt2 -->
+        <test-method signature="addtocartprdt3()[pri:4, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:42:16 IST" name="addtocartprdt3" finished-at="2026-08-19T23:43:24 IST" duration-ms="67324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt3 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:42:16 IST" name="browserClose" finished-at="2026-08-19T23:42:16 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt2 status=SUCCESS method=Apparelproducttest.addtocartprdt2()[pri:3, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:43:24 IST" name="browserClose" finished-at="2026-08-19T23:43:24 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt3 status=SUCCESS method=Apparelproducttest.addtocartprdt3()[pri:4, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="addtocartprdt4()[pri:5, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:43:24 IST" name="addtocartprdt4" finished-at="2026-08-19T23:43:26 IST" duration-ms="1869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt4 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:43:26 IST" name="browserClose" finished-at="2026-08-19T23:43:26 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt4 status=SUCCESS method=Apparelproducttest.addtocartprdt4()[pri:5, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="addtocartprdt7()[pri:6, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:43:26 IST" name="addtocartprdt7" finished-at="2026-08-19T23:44:00 IST" duration-ms="34702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt7 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:44:00 IST" name="browserClose" finished-at="2026-08-19T23:44:00 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt7 status=SUCCESS method=Apparelproducttest.addtocartprdt7()[pri:6, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="addtocartprdt5()[pri:7, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:44:00 IST" name="addtocartprdt5" finished-at="2026-08-19T23:44:34 IST" duration-ms="33714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt5 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:44:34 IST" name="browserClose" finished-at="2026-08-19T23:44:34 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt5 status=SUCCESS method=Apparelproducttest.addtocartprdt5()[pri:7, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="addtocartprdt6()[pri:8, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:44:34 IST" name="addtocartprdt6" finished-at="2026-08-19T23:45:03 IST" duration-ms="28558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt6 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:45:03 IST" name="browserClose" finished-at="2026-08-19T23:45:03 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt6 status=SUCCESS method=Apparelproducttest.addtocartprdt6()[pri:8, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="addtocartprdt8()[pri:9, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:45:03 IST" name="addtocartprdt8" finished-at="2026-08-19T23:45:36 IST" duration-ms="33568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt8 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:45:36 IST" name="browserClose" finished-at="2026-08-19T23:45:36 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt8 status=SUCCESS method=Apparelproducttest.addtocartprdt8()[pri:9, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="addtocartprdt9()[pri:10, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:45:36 IST" name="addtocartprdt9" finished-at="2026-08-19T23:46:13 IST" duration-ms="36655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt9 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:46:13 IST" name="browserClose" finished-at="2026-08-19T23:46:13 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt9 status=SUCCESS method=Apparelproducttest.addtocartprdt9()[pri:10, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="addtocartprdt10()[pri:11, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:46:13 IST" name="addtocartprdt10" finished-at="2026-08-19T23:46:48 IST" duration-ms="34830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt10 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:46:48 IST" name="browserClose" finished-at="2026-08-19T23:46:48 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt10 status=SUCCESS method=Apparelproducttest.addtocartprdt10()[pri:11, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="addtocartprdt11()[pri:12, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:46:48 IST" name="addtocartprdt11" finished-at="2026-08-19T23:47:21 IST" duration-ms="33623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt11 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:47:21 IST" name="browserClose" finished-at="2026-08-19T23:47:21 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt11 status=SUCCESS method=Apparelproducttest.addtocartprdt11()[pri:12, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="addtocartprdt12()[pri:13, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:47:21 IST" name="addtocartprdt12" finished-at="2026-08-19T23:48:11 IST" duration-ms="49254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt12 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:48:11 IST" name="browserClose" finished-at="2026-08-19T23:48:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt12 status=SUCCESS method=Apparelproducttest.addtocartprdt12()[pri:13, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="addtocartprdt13()[pri:14, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:48:11 IST" name="addtocartprdt13" finished-at="2026-08-19T23:48:28 IST" duration-ms="17074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartprdt13 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Apparelproducttest@1190200a]" started-at="2026-08-19T23:48:28 IST" name="browserClose" finished-at="2026-08-19T23:48:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtocartprdt13 status=SUCCESS method=Apparelproducttest.addtocartprdt13()[pri:14, instance:testpkg.Apparelproducttest@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.Apparelproducttest -->
+      <class name="testpkg.CheckoutdetailsTest">
+        <test-method signature="checkout_validation()[pri:1, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:20 IST" name="checkout_validation" finished-at="2026-08-19T23:57:30 IST" duration-ms="10001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_validation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:30 IST" name="browserClose" finished-at="2026-08-19T23:57:30 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkout_validation status=SUCCESS method=CheckoutdetailsTest.checkout_validation()[pri:1, instance:testpkg.CheckoutdetailsTest@8c3b9d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="billingadress_validation()[pri:2, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:30 IST" name="billingadress_validation" finished-at="2026-08-19T23:57:32 IST" duration-ms="2168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- billingadress_validation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:32 IST" name="browserClose" finished-at="2026-08-19T23:57:32 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=billingadress_validation status=SUCCESS method=CheckoutdetailsTest.billingadress_validation()[pri:2, instance:testpkg.CheckoutdetailsTest@8c3b9d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="shippingaddress_validation()[pri:3, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:32 IST" name="shippingaddress_validation" finished-at="2026-08-19T23:57:34 IST" duration-ms="2174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shippingaddress_validation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:34 IST" name="browserClose" finished-at="2026-08-19T23:57:34 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shippingaddress_validation status=SUCCESS method=CheckoutdetailsTest.shippingaddress_validation()[pri:3, instance:testpkg.CheckoutdetailsTest@8c3b9d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="shippingmethod_validation()[pri:4, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:34 IST" name="shippingmethod_validation" finished-at="2026-08-19T23:57:36 IST" duration-ms="2165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shippingmethod_validation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:36 IST" name="browserClose" finished-at="2026-08-19T23:57:36 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shippingmethod_validation status=SUCCESS method=CheckoutdetailsTest.shippingmethod_validation()[pri:4, instance:testpkg.CheckoutdetailsTest@8c3b9d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="paymentmethod_selection()[pri:5, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:36 IST" name="paymentmethod_selection" finished-at="2026-08-19T23:57:38 IST" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentmethod_selection -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:38 IST" name="browserClose" finished-at="2026-08-19T23:57:38 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=paymentmethod_selection status=SUCCESS method=CheckoutdetailsTest.paymentmethod_selection()[pri:5, instance:testpkg.CheckoutdetailsTest@8c3b9d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="paymentmethodinfo_validation()[pri:6, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:38 IST" name="paymentmethodinfo_validation" finished-at="2026-08-19T23:57:40 IST" duration-ms="2101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentmethodinfo_validation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:40 IST" name="browserClose" finished-at="2026-08-19T23:57:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=paymentmethodinfo_validation status=SUCCESS method=CheckoutdetailsTest.paymentmethodinfo_validation()[pri:6, instance:testpkg.CheckoutdetailsTest@8c3b9d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="checkoutlast_confirm()[pri:7, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:40 IST" name="checkoutlast_confirm" finished-at="2026-08-19T23:57:47 IST" duration-ms="6094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutlast_confirm -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:47 IST" name="browserClose" finished-at="2026-08-19T23:57:47 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkoutlast_confirm status=SUCCESS method=CheckoutdetailsTest.checkoutlast_confirm()[pri:7, instance:testpkg.CheckoutdetailsTest@8c3b9d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="orderplacement()[pri:8, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:47 IST" name="orderplacement" finished-at="2026-08-19T23:57:56 IST" duration-ms="9514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderplacement -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:56 IST" name="browserClose" finished-at="2026-08-19T23:57:56 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=orderplacement status=SUCCESS method=CheckoutdetailsTest.orderplacement()[pri:8, instance:testpkg.CheckoutdetailsTest@8c3b9d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="to_orderdetails_validation()[pri:9, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:57:56 IST" name="to_orderdetails_validation" finished-at="2026-08-19T23:58:00 IST" duration-ms="3787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- to_orderdetails_validation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:58:00 IST" name="browserClose" finished-at="2026-08-19T23:58:00 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=to_orderdetails_validation status=SUCCESS method=CheckoutdetailsTest.to_orderdetails_validation()[pri:9, instance:testpkg.CheckoutdetailsTest@8c3b9d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="reorder_validation()[pri:10, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:58:00 IST" name="reorder_validation" finished-at="2026-08-19T23:58:09 IST" duration-ms="8753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reorder_validation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:58:09 IST" name="browserClose" finished-at="2026-08-19T23:58:09 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=reorder_validation status=SUCCESS method=CheckoutdetailsTest.reorder_validation()[pri:10, instance:testpkg.CheckoutdetailsTest@8c3b9d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="ordersuccessfull_validaton()[pri:11, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:58:09 IST" name="ordersuccessfull_validaton" finished-at="2026-08-19T23:58:13 IST" duration-ms="4186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ordersuccessfull_validaton -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.CheckoutdetailsTest@8c3b9d]" started-at="2026-08-19T23:58:13 IST" name="browserClose" finished-at="2026-08-19T23:58:13 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ordersuccessfull_validaton status=SUCCESS method=CheckoutdetailsTest.ordersuccessfull_validaton()[pri:11, instance:testpkg.CheckoutdetailsTest@8c3b9d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.CheckoutdetailsTest -->
+      <class name="testpkg.Logintest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:36:52 IST" name="setUp" finished-at="2026-08-19T23:36:59 IST" duration-ms="6598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fetchtitle()[pri:1, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:36:59 IST" name="fetchtitle" finished-at="2026-08-19T23:36:59 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchtitle -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:36:59 IST" name="browserClose" finished-at="2026-08-19T23:36:59 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fetchtitle status=SUCCESS method=Logintest.fetchtitle()[pri:1, instance:testpkg.Logintest@7530ad9c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="clicklogin()[pri:2, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:36:59 IST" name="clicklogin" finished-at="2026-08-19T23:37:00 IST" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicklogin -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:37:00 IST" name="browserClose" finished-at="2026-08-19T23:37:00 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clicklogin status=SUCCESS method=Logintest.clicklogin()[pri:2, instance:testpkg.Logintest@7530ad9c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="logoverification()[pri:3, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:37:00 IST" name="logoverification" finished-at="2026-08-19T23:37:00 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoverification -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:37:00 IST" name="browserClose" finished-at="2026-08-19T23:37:00 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logoverification status=SUCCESS method=Logintest.logoverification()[pri:3, instance:testpkg.Logintest@7530ad9c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="buttontextverification()[pri:4, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:37:00 IST" name="buttontextverification" finished-at="2026-08-19T23:37:00 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttontextverification -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:37:00 IST" name="browserClose" finished-at="2026-08-19T23:37:00 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=buttontextverification status=SUCCESS method=Logintest.buttontextverification()[pri:4, instance:testpkg.Logintest@7530ad9c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="valueset()[pri:5, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:37:00 IST" name="valueset" finished-at="2026-08-19T23:37:21 IST" duration-ms="21040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valueset -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:37:21 IST" name="browserClose" finished-at="2026-08-19T23:37:21 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=valueset status=SUCCESS method=Logintest.valueset()[pri:5, instance:testpkg.Logintest@7530ad9c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="forgetpass()[pri:6, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:37:21 IST" name="forgetpass" finished-at="2026-08-19T23:37:26 IST" duration-ms="5268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetpass -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:37:26 IST" name="browserClose" finished-at="2026-08-19T23:37:26 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=forgetpass status=SUCCESS method=Logintest.forgetpass()[pri:6, instance:testpkg.Logintest@7530ad9c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="registerbtnclickFromlogin()[pri:7, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:37:26 IST" name="registerbtnclickFromlogin" finished-at="2026-08-19T23:37:30 IST" duration-ms="3840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerbtnclickFromlogin -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:37:30 IST" name="browserClose" finished-at="2026-08-19T23:37:30 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registerbtnclickFromlogin status=SUCCESS method=Logintest.registerbtnclickFromlogin()[pri:7, instance:testpkg.Logintest@7530ad9c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testpkg.Logintest@7530ad9c]" started-at="2026-08-19T23:59:52 IST" name="teardown" finished-at="2026-08-19T23:59:53 IST" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testpkg.Logintest -->
+      <class name="testpkg.AllLinksTest">
+        <test-method signature="alllinksvalidation()[pri:1, instance:testpkg.AllLinksTest@f79e]" started-at="2026-08-19T23:59:46 IST" name="alllinksvalidation" finished-at="2026-08-19T23:59:52 IST" duration-ms="6503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alllinksvalidation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.AllLinksTest@f79e]" started-at="2026-08-19T23:59:52 IST" name="browserClose" finished-at="2026-08-19T23:59:52 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=alllinksvalidation status=SUCCESS method=AllLinksTest.alllinksvalidation()[pri:1, instance:testpkg.AllLinksTest@f79e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.AllLinksTest -->
+      <class name="testpkg.Producthometest">
+        <test-method signature="logoverification()[pri:1, instance:testpkg.Producthometest@65d09a04]" started-at="2026-08-19T23:37:30 IST" name="logoverification" finished-at="2026-08-19T23:37:38 IST" duration-ms="7513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoverification -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Producthometest@65d09a04]" started-at="2026-08-19T23:37:38 IST" name="browserClose" finished-at="2026-08-19T23:37:38 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logoverification status=SUCCESS method=Producthometest.logoverification()[pri:1, instance:testpkg.Producthometest@65d09a04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="additem()[pri:2, instance:testpkg.Producthometest@65d09a04]" started-at="2026-08-19T23:37:38 IST" name="additem" finished-at="2026-08-19T23:38:20 IST" duration-ms="42587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additem -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Producthometest@65d09a04]" started-at="2026-08-19T23:38:20 IST" name="browserClose" finished-at="2026-08-19T23:38:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=additem status=SUCCESS method=Producthometest.additem()[pri:2, instance:testpkg.Producthometest@65d09a04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="newslettersubscribe()[pri:3, instance:testpkg.Producthometest@65d09a04]" started-at="2026-08-19T23:38:20 IST" name="newslettersubscribe" finished-at="2026-08-19T23:38:23 IST" duration-ms="3283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newslettersubscribe -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Producthometest@65d09a04]" started-at="2026-08-19T23:38:23 IST" name="browserClose" finished-at="2026-08-19T23:38:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newslettersubscribe status=SUCCESS method=Producthometest.newslettersubscribe()[pri:3, instance:testpkg.Producthometest@65d09a04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.Producthometest -->
+      <class name="testpkg.Booksproducttest">
+        <test-method signature="booksclicking()[pri:1, instance:testpkg.Booksproducttest@33c911a1]" started-at="2026-08-19T23:38:23 IST" name="booksclicking" finished-at="2026-08-19T23:38:31 IST" duration-ms="7378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booksclicking -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Booksproducttest@33c911a1]" started-at="2026-08-19T23:38:31 IST" name="browserClose" finished-at="2026-08-19T23:38:31 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=booksclicking status=SUCCESS method=Booksproducttest.booksclicking()[pri:1, instance:testpkg.Booksproducttest@33c911a1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="sorting()[pri:2, instance:testpkg.Booksproducttest@33c911a1]" started-at="2026-08-19T23:38:31 IST" name="sorting" finished-at="2026-08-19T23:38:55 IST" duration-ms="24052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sorting -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Booksproducttest@33c911a1]" started-at="2026-08-19T23:38:55 IST" name="browserClose" finished-at="2026-08-19T23:38:55 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sorting status=SUCCESS method=Booksproducttest.sorting()[pri:2, instance:testpkg.Booksproducttest@33c911a1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="additemtocarts()[pri:3, instance:testpkg.Booksproducttest@33c911a1]" started-at="2026-08-19T23:38:55 IST" name="additemtocarts" finished-at="2026-08-19T23:39:04 IST" duration-ms="9077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additemtocarts -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Booksproducttest@33c911a1]" started-at="2026-08-19T23:39:04 IST" name="browserClose" finished-at="2026-08-19T23:39:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=additemtocarts status=SUCCESS method=Booksproducttest.additemtocarts()[pri:3, instance:testpkg.Booksproducttest@33c911a1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.Booksproducttest -->
+      <class name="testpkg.Giftcardproducttest">
+        <test-method signature="Jewelrypagevalidation()[pri:1, instance:testpkg.Giftcardproducttest@399c4be1]" started-at="2026-08-19T23:49:34 IST" name="Jewelrypagevalidation" finished-at="2026-08-19T23:49:42 IST" duration-ms="8171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jewelrypagevalidation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Giftcardproducttest@399c4be1]" started-at="2026-08-19T23:49:42 IST" name="browserClose" finished-at="2026-08-19T23:49:42 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Jewelrypagevalidation status=SUCCESS method=Giftcardproducttest.Jewelrypagevalidation()[pri:1, instance:testpkg.Giftcardproducttest@399c4be1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="giftcardaddtocart1()[pri:2, instance:testpkg.Giftcardproducttest@399c4be1]" started-at="2026-08-19T23:49:42 IST" name="giftcardaddtocart1" finished-at="2026-08-19T23:50:14 IST" duration-ms="31431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftcardaddtocart1 -->
+        <test-method signature="giftcardaddtocart2()[pri:3, instance:testpkg.Giftcardproducttest@399c4be1]" started-at="2026-08-19T23:50:14 IST" name="giftcardaddtocart2" finished-at="2026-08-19T23:50:44 IST" duration-ms="30298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftcardaddtocart2 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Giftcardproducttest@399c4be1]" started-at="2026-08-19T23:50:14 IST" name="browserClose" finished-at="2026-08-19T23:50:14 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=giftcardaddtocart1 status=SUCCESS method=Giftcardproducttest.giftcardaddtocart1()[pri:2, instance:testpkg.Giftcardproducttest@399c4be1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Giftcardproducttest@399c4be1]" started-at="2026-08-19T23:50:44 IST" name="browserClose" finished-at="2026-08-19T23:50:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=giftcardaddtocart2 status=SUCCESS method=Giftcardproducttest.giftcardaddtocart2()[pri:3, instance:testpkg.Giftcardproducttest@399c4be1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="giftcardaddtocart3()[pri:4, instance:testpkg.Giftcardproducttest@399c4be1]" started-at="2026-08-19T23:50:44 IST" name="giftcardaddtocart3" finished-at="2026-08-19T23:51:17 IST" duration-ms="32309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftcardaddtocart3 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Giftcardproducttest@399c4be1]" started-at="2026-08-19T23:51:17 IST" name="browserClose" finished-at="2026-08-19T23:51:17 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=giftcardaddtocart3 status=SUCCESS method=Giftcardproducttest.giftcardaddtocart3()[pri:4, instance:testpkg.Giftcardproducttest@399c4be1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="giftcardaddtocart4()[pri:5, instance:testpkg.Giftcardproducttest@399c4be1]" started-at="2026-08-19T23:51:17 IST" name="giftcardaddtocart4" finished-at="2026-08-19T23:51:51 IST" duration-ms="34693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftcardaddtocart4 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Giftcardproducttest@399c4be1]" started-at="2026-08-19T23:51:51 IST" name="browserClose" finished-at="2026-08-19T23:51:51 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=giftcardaddtocart4 status=SUCCESS method=Giftcardproducttest.giftcardaddtocart4()[pri:5, instance:testpkg.Giftcardproducttest@399c4be1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.Giftcardproducttest -->
+      <class name="testpkg.Myaccount_cutomerinfoTest">
+        <test-method signature="emailafriendvalidation()[pri:1, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:52:42 IST" name="emailafriendvalidation" finished-at="2026-08-19T23:52:49 IST" duration-ms="7896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailafriendvalidation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:52:49 IST" name="browserClose" finished-at="2026-08-19T23:52:49 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=emailafriendvalidation status=SUCCESS method=Myaccount_cutomerinfoTest.emailafriendvalidation()[pri:1, instance:testpkg.Myaccount_cutomerinfoTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="customerinfo()[pri:2, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:52:49 IST" name="customerinfo" finished-at="2026-08-19T23:53:15 IST" duration-ms="26081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerinfo -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:53:15 IST" name="browserClose" finished-at="2026-08-19T23:53:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=customerinfo status=SUCCESS method=Myaccount_cutomerinfoTest.customerinfo()[pri:2, instance:testpkg.Myaccount_cutomerinfoTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="address()[pri:3, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:53:15 IST" name="address" finished-at="2026-08-19T23:53:30 IST" duration-ms="14193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- address -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:53:30 IST" name="browserClose" finished-at="2026-08-19T23:53:30 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=address status=SUCCESS method=Myaccount_cutomerinfoTest.address()[pri:3, instance:testpkg.Myaccount_cutomerinfoTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="address_existingvalueschange()[pri:4, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:53:30 IST" name="address_existingvalueschange" finished-at="2026-08-19T23:54:38 IST" duration-ms="68314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- address_existingvalueschange -->
+        <test-method signature="newaddress()[pri:5, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:54:38 IST" name="newaddress" finished-at="2026-08-19T23:55:46 IST" duration-ms="68312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newaddress -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:54:38 IST" name="browserClose" finished-at="2026-08-19T23:54:38 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=address_existingvalueschange status=SUCCESS method=Myaccount_cutomerinfoTest.address_existingvalueschange()[pri:4, instance:testpkg.Myaccount_cutomerinfoTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:55:46 IST" name="browserClose" finished-at="2026-08-19T23:55:46 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newaddress status=SUCCESS method=Myaccount_cutomerinfoTest.newaddress()[pri:5, instance:testpkg.Myaccount_cutomerinfoTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="orders()[pri:6, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:55:46 IST" name="orders" finished-at="2026-08-19T23:55:51 IST" duration-ms="4199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orders -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:55:51 IST" name="browserClose" finished-at="2026-08-19T23:55:51 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=orders status=SUCCESS method=Myaccount_cutomerinfoTest.orders()[pri:6, instance:testpkg.Myaccount_cutomerinfoTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="downloadableprdt()[pri:7, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:55:51 IST" name="downloadableprdt" finished-at="2026-08-19T23:56:24 IST" duration-ms="33890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadableprdt -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:56:24 IST" name="browserClose" finished-at="2026-08-19T23:56:24 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=downloadableprdt status=SUCCESS method=Myaccount_cutomerinfoTest.downloadableprdt()[pri:7, instance:testpkg.Myaccount_cutomerinfoTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="backinstocksubscriptions()[pri:8, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:56:24 IST" name="backinstocksubscriptions" finished-at="2026-08-19T23:56:29 IST" duration-ms="4205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backinstocksubscriptions -->
+        <test-method signature="rewardpoints()[pri:9, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:56:29 IST" name="rewardpoints" finished-at="2026-08-19T23:56:33 IST" duration-ms="4088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rewardpoints -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:56:29 IST" name="browserClose" finished-at="2026-08-19T23:56:29 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=backinstocksubscriptions status=SUCCESS method=Myaccount_cutomerinfoTest.backinstocksubscriptions()[pri:8, instance:testpkg.Myaccount_cutomerinfoTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:56:33 IST" name="browserClose" finished-at="2026-08-19T23:56:33 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=rewardpoints status=SUCCESS method=Myaccount_cutomerinfoTest.rewardpoints()[pri:9, instance:testpkg.Myaccount_cutomerinfoTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="passordchange()[pri:10, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:56:33 IST" name="passordchange" finished-at="2026-08-19T23:56:46 IST" duration-ms="13514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passordchange -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Myaccount_cutomerinfoTest@385e9564]" started-at="2026-08-19T23:56:46 IST" name="browserClose" finished-at="2026-08-19T23:56:46 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=passordchange status=SUCCESS method=Myaccount_cutomerinfoTest.passordchange()[pri:10, instance:testpkg.Myaccount_cutomerinfoTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.Myaccount_cutomerinfoTest -->
+      <class name="testpkg.Searchbarsearchingtest">
+        <test-method signature="searchbarvalidation_with_validkeyword_books()[pri:1, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:58:13 IST" name="searchbarvalidation_with_validkeyword_books" finished-at="2026-08-19T23:58:26 IST" duration-ms="12690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbarvalidation_with_validkeyword_books -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:58:26 IST" name="browserClose" finished-at="2026-08-19T23:58:26 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchbarvalidation_with_validkeyword_books status=SUCCESS method=Searchbarsearchingtest.searchbarvalidation_with_validkeyword_books()[pri:1, instance:testpkg.Searchbarsearchingtest@4c39bec8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="searchbarvalidation_with_validkeyword_computers()[pri:2, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:58:26 IST" name="searchbarvalidation_with_validkeyword_computers" finished-at="2026-08-19T23:58:40 IST" duration-ms="14464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbarvalidation_with_validkeyword_computers -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:58:40 IST" name="browserClose" finished-at="2026-08-19T23:58:40 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchbarvalidation_with_validkeyword_computers status=SUCCESS method=Searchbarsearchingtest.searchbarvalidation_with_validkeyword_computers()[pri:2, instance:testpkg.Searchbarsearchingtest@4c39bec8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="searchbarvalidation_with_validkeyword_electronics()[pri:3, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:58:40 IST" name="searchbarvalidation_with_validkeyword_electronics" finished-at="2026-08-19T23:58:47 IST" duration-ms="7034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbarvalidation_with_validkeyword_electronics -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:58:47 IST" name="browserClose" finished-at="2026-08-19T23:58:47 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchbarvalidation_with_validkeyword_electronics status=SUCCESS method=Searchbarsearchingtest.searchbarvalidation_with_validkeyword_electronics()[pri:3, instance:testpkg.Searchbarsearchingtest@4c39bec8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="searchbarvalidation_with_validkeyword_apparel()[pri:4, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:58:47 IST" name="searchbarvalidation_with_validkeyword_apparel" finished-at="2026-08-19T23:58:54 IST" duration-ms="6782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbarvalidation_with_validkeyword_apparel -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:58:54 IST" name="browserClose" finished-at="2026-08-19T23:58:54 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchbarvalidation_with_validkeyword_apparel status=SUCCESS method=Searchbarsearchingtest.searchbarvalidation_with_validkeyword_apparel()[pri:4, instance:testpkg.Searchbarsearchingtest@4c39bec8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="searchbarvalidation_with_validkeyword_digital()[pri:5, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:58:54 IST" name="searchbarvalidation_with_validkeyword_digital" finished-at="2026-08-19T23:59:01 IST" duration-ms="6912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbarvalidation_with_validkeyword_digital -->
+        <test-method signature="searchbarvalidation_with_validkeyword_jewelry()[pri:6, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:59:01 IST" name="searchbarvalidation_with_validkeyword_jewelry" finished-at="2026-08-19T23:59:14 IST" duration-ms="13640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbarvalidation_with_validkeyword_jewelry -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:59:01 IST" name="browserClose" finished-at="2026-08-19T23:59:01 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchbarvalidation_with_validkeyword_digital status=SUCCESS method=Searchbarsearchingtest.searchbarvalidation_with_validkeyword_digital()[pri:5, instance:testpkg.Searchbarsearchingtest@4c39bec8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:59:14 IST" name="browserClose" finished-at="2026-08-19T23:59:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchbarvalidation_with_validkeyword_jewelry status=SUCCESS method=Searchbarsearchingtest.searchbarvalidation_with_validkeyword_jewelry()[pri:6, instance:testpkg.Searchbarsearchingtest@4c39bec8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="searchbarvalidation_with_validkeyword_giftcard()[pri:7, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:59:14 IST" name="searchbarvalidation_with_validkeyword_giftcard" finished-at="2026-08-19T23:59:28 IST" duration-ms="13731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbarvalidation_with_validkeyword_giftcard -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:59:28 IST" name="browserClose" finished-at="2026-08-19T23:59:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchbarvalidation_with_validkeyword_giftcard status=SUCCESS method=Searchbarsearchingtest.searchbarvalidation_with_validkeyword_giftcard()[pri:7, instance:testpkg.Searchbarsearchingtest@4c39bec8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="searchbarvalidation_with_invalidkeyword()[pri:8, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:59:28 IST" name="searchbarvalidation_with_invalidkeyword" finished-at="2026-08-19T23:59:46 IST" duration-ms="17783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbarvalidation_with_invalidkeyword -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Searchbarsearchingtest@4c39bec8]" started-at="2026-08-19T23:59:46 IST" name="browserClose" finished-at="2026-08-19T23:59:46 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchbarvalidation_with_invalidkeyword status=SUCCESS method=Searchbarsearchingtest.searchbarvalidation_with_invalidkeyword()[pri:8, instance:testpkg.Searchbarsearchingtest@4c39bec8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.Searchbarsearchingtest -->
+      <class name="testpkg.Shoppingcart_test">
+        <test-method signature="shoppingcart_validation()[pri:1, instance:testpkg.Shoppingcart_test@5b94b04d]" started-at="2026-08-19T23:56:46 IST" name="shoppingcart_validation" finished-at="2026-08-19T23:56:56 IST" duration-ms="10174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingcart_validation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Shoppingcart_test@5b94b04d]" started-at="2026-08-19T23:56:56 IST" name="browserClose" finished-at="2026-08-19T23:56:56 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shoppingcart_validation status=SUCCESS method=Shoppingcart_test.shoppingcart_validation()[pri:1, instance:testpkg.Shoppingcart_test@5b94b04d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="applycounpon_validationtest()[pri:2, instance:testpkg.Shoppingcart_test@5b94b04d]" started-at="2026-08-19T23:56:56 IST" name="applycounpon_validationtest" finished-at="2026-08-19T23:56:59 IST" duration-ms="2531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applycounpon_validationtest -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Shoppingcart_test@5b94b04d]" started-at="2026-08-19T23:56:59 IST" name="browserClose" finished-at="2026-08-19T23:56:59 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=applycounpon_validationtest status=SUCCESS method=Shoppingcart_test.applycounpon_validationtest()[pri:2, instance:testpkg.Shoppingcart_test@5b94b04d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="giftcard_validationtest()[pri:3, instance:testpkg.Shoppingcart_test@5b94b04d]" started-at="2026-08-19T23:56:59 IST" name="giftcard_validationtest" finished-at="2026-08-19T23:57:05 IST" duration-ms="6268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftcard_validationtest -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Shoppingcart_test@5b94b04d]" started-at="2026-08-19T23:57:05 IST" name="browserClose" finished-at="2026-08-19T23:57:05 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=giftcard_validationtest status=SUCCESS method=Shoppingcart_test.giftcard_validationtest()[pri:3, instance:testpkg.Shoppingcart_test@5b94b04d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="dropdown_country_state()[pri:4, instance:testpkg.Shoppingcart_test@5b94b04d]" started-at="2026-08-19T23:57:05 IST" name="dropdown_country_state" finished-at="2026-08-19T23:57:08 IST" duration-ms="2871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown_country_state -->
+        <test-method signature="updatecart_after_delete()[pri:5, instance:testpkg.Shoppingcart_test@5b94b04d]" started-at="2026-08-19T23:57:08 IST" name="updatecart_after_delete" finished-at="2026-08-19T23:57:16 IST" duration-ms="7475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatecart_after_delete -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Shoppingcart_test@5b94b04d]" started-at="2026-08-19T23:57:08 IST" name="browserClose" finished-at="2026-08-19T23:57:08 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=dropdown_country_state status=SUCCESS method=Shoppingcart_test.dropdown_country_state()[pri:4, instance:testpkg.Shoppingcart_test@5b94b04d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Shoppingcart_test@5b94b04d]" started-at="2026-08-19T23:57:16 IST" name="browserClose" finished-at="2026-08-19T23:57:16 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=updatecart_after_delete status=SUCCESS method=Shoppingcart_test.updatecart_after_delete()[pri:5, instance:testpkg.Shoppingcart_test@5b94b04d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="checkout_test()[pri:6, instance:testpkg.Shoppingcart_test@5b94b04d]" started-at="2026-08-19T23:57:16 IST" name="checkout_test" finished-at="2026-08-19T23:57:20 IST" duration-ms="4133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_test -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Shoppingcart_test@5b94b04d]" started-at="2026-08-19T23:57:20 IST" name="browserClose" finished-at="2026-08-19T23:57:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkout_test status=SUCCESS method=Shoppingcart_test.checkout_test()[pri:6, instance:testpkg.Shoppingcart_test@5b94b04d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.Shoppingcart_test -->
+      <class name="testpkg.Computerproducttest">
+        <test-method signature="compclicking()[pri:1, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:39:04 IST" name="compclicking" finished-at="2026-08-19T23:39:08 IST" duration-ms="4010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compclicking -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:39:08 IST" name="browserClose" finished-at="2026-08-19T23:39:08 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=compclicking status=SUCCESS method=Computerproducttest.compclicking()[pri:1, instance:testpkg.Computerproducttest@75db5df9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="desktopclicking()[pri:2, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:39:08 IST" name="desktopclicking" finished-at="2026-08-19T23:39:09 IST" duration-ms="1430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- desktopclicking -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:39:09 IST" name="browserClose" finished-at="2026-08-19T23:39:09 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=desktopclicking status=SUCCESS method=Computerproducttest.desktopclicking()[pri:2, instance:testpkg.Computerproducttest@75db5df9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="sortingincomp()[pri:3, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:39:09 IST" name="sortingincomp" finished-at="2026-08-19T23:39:36 IST" duration-ms="26539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortingincomp -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:39:36 IST" name="browserClose" finished-at="2026-08-19T23:39:36 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sortingincomp status=SUCCESS method=Computerproducttest.sortingincomp()[pri:3, instance:testpkg.Computerproducttest@75db5df9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="desktopPrdtaddtocart()[pri:4, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:39:36 IST" name="desktopPrdtaddtocart" finished-at="2026-08-19T23:39:56 IST" duration-ms="20521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- desktopPrdtaddtocart -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:39:56 IST" name="browserClose" finished-at="2026-08-19T23:39:56 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=desktopPrdtaddtocart status=SUCCESS method=Computerproducttest.desktopPrdtaddtocart()[pri:4, instance:testpkg.Computerproducttest@75db5df9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="notebookaddtocart()[pri:5, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:39:56 IST" name="notebookaddtocart" finished-at="2026-08-19T23:40:00 IST" duration-ms="3944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notebookaddtocart -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:40:00 IST" name="browserClose" finished-at="2026-08-19T23:40:00 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=notebookaddtocart status=SUCCESS method=Computerproducttest.notebookaddtocart()[pri:5, instance:testpkg.Computerproducttest@75db5df9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="accessoriesAddtocart()[pri:6, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:40:00 IST" name="accessoriesAddtocart" finished-at="2026-08-19T23:40:04 IST" duration-ms="3992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessoriesAddtocart -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:40:04 IST" name="browserClose" finished-at="2026-08-19T23:40:04 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=accessoriesAddtocart status=SUCCESS method=Computerproducttest.accessoriesAddtocart()[pri:6, instance:testpkg.Computerproducttest@75db5df9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="verifyProductImageTest()[pri:7, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:40:04 IST" name="verifyProductImageTest" finished-at="2026-08-19T23:40:10 IST" duration-ms="5588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductImageTest -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Computerproducttest@75db5df9]" started-at="2026-08-19T23:40:10 IST" name="browserClose" finished-at="2026-08-19T23:40:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyProductImageTest status=SUCCESS method=Computerproducttest.verifyProductImageTest()[pri:7, instance:testpkg.Computerproducttest@75db5df9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.Computerproducttest -->
+      <class name="testpkg.emailafriendtest">
+        <test-method signature="emailafriendvalidation()[pri:1, instance:testpkg.emailafriendtest@291caca8]" started-at="2026-08-19T23:51:51 IST" name="emailafriendvalidation" finished-at="2026-08-19T23:52:03 IST" duration-ms="12046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailafriendvalidation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.emailafriendtest@291caca8]" started-at="2026-08-19T23:52:03 IST" name="browserClose" finished-at="2026-08-19T23:52:03 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=emailafriendvalidation status=SUCCESS method=emailafriendtest.emailafriendvalidation()[pri:1, instance:testpkg.emailafriendtest@291caca8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="friendsemail_and_personalmsgvalidation()[pri:2, instance:testpkg.emailafriendtest@291caca8]" started-at="2026-08-19T23:52:03 IST" name="friendsemail_and_personalmsgvalidation" finished-at="2026-08-19T23:52:42 IST" duration-ms="38249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- friendsemail_and_personalmsgvalidation -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.emailafriendtest@291caca8]" started-at="2026-08-19T23:52:42 IST" name="browserClose" finished-at="2026-08-19T23:52:42 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=friendsemail_and_personalmsgvalidation status=SUCCESS method=emailafriendtest.friendsemail_and_personalmsgvalidation()[pri:2, instance:testpkg.emailafriendtest@291caca8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.emailafriendtest -->
+      <class name="testpkg.Jewelryproducttest">
+        <test-method signature="Jewelrypagevalidation()[pri:1, instance:testpkg.Jewelryproducttest@45b4c3a9]" started-at="2026-08-19T23:48:50 IST" name="Jewelrypagevalidation" finished-at="2026-08-19T23:48:57 IST" duration-ms="7054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jewelrypagevalidation -->
+        <test-method signature="jewelry1addtocart()[pri:2, instance:testpkg.Jewelryproducttest@45b4c3a9]" started-at="2026-08-19T23:48:57 IST" name="jewelry1addtocart" finished-at="2026-08-19T23:49:05 IST" duration-ms="8484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jewelry1addtocart -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Jewelryproducttest@45b4c3a9]" started-at="2026-08-19T23:48:57 IST" name="browserClose" finished-at="2026-08-19T23:48:57 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Jewelrypagevalidation status=SUCCESS method=Jewelryproducttest.Jewelrypagevalidation()[pri:1, instance:testpkg.Jewelryproducttest@45b4c3a9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Jewelryproducttest@45b4c3a9]" started-at="2026-08-19T23:49:05 IST" name="browserClose" finished-at="2026-08-19T23:49:05 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=jewelry1addtocart status=SUCCESS method=Jewelryproducttest.jewelry1addtocart()[pri:2, instance:testpkg.Jewelryproducttest@45b4c3a9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="jewelry2addtocart()[pri:3, instance:testpkg.Jewelryproducttest@45b4c3a9]" started-at="2026-08-19T23:49:05 IST" name="jewelry2addtocart" finished-at="2026-08-19T23:49:14 IST" duration-ms="8369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jewelry2addtocart -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Jewelryproducttest@45b4c3a9]" started-at="2026-08-19T23:49:14 IST" name="browserClose" finished-at="2026-08-19T23:49:14 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=jewelry2addtocart status=SUCCESS method=Jewelryproducttest.jewelry2addtocart()[pri:3, instance:testpkg.Jewelryproducttest@45b4c3a9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="jewelry3addtocart()[pri:4, instance:testpkg.Jewelryproducttest@45b4c3a9]" started-at="2026-08-19T23:49:14 IST" name="jewelry3addtocart" finished-at="2026-08-19T23:49:20 IST" duration-ms="5875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jewelry3addtocart -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Jewelryproducttest@45b4c3a9]" started-at="2026-08-19T23:49:20 IST" name="browserClose" finished-at="2026-08-19T23:49:20 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=jewelry3addtocart status=SUCCESS method=Jewelryproducttest.jewelry3addtocart()[pri:4, instance:testpkg.Jewelryproducttest@45b4c3a9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="jewelry4addtocart()[pri:5, instance:testpkg.Jewelryproducttest@45b4c3a9]" started-at="2026-08-19T23:49:20 IST" name="jewelry4addtocart" finished-at="2026-08-19T23:49:26 IST" duration-ms="5937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jewelry4addtocart -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Jewelryproducttest@45b4c3a9]" started-at="2026-08-19T23:49:26 IST" name="browserClose" finished-at="2026-08-19T23:49:26 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=jewelry4addtocart status=SUCCESS method=Jewelryproducttest.jewelry4addtocart()[pri:5, instance:testpkg.Jewelryproducttest@45b4c3a9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="jewelry5addtocart()[pri:5, instance:testpkg.Jewelryproducttest@45b4c3a9]" started-at="2026-08-19T23:49:26 IST" name="jewelry5addtocart" finished-at="2026-08-19T23:49:34 IST" duration-ms="8721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jewelry5addtocart -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Jewelryproducttest@45b4c3a9]" started-at="2026-08-19T23:49:34 IST" name="browserClose" finished-at="2026-08-19T23:49:34 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=jewelry5addtocart status=SUCCESS method=Jewelryproducttest.jewelry5addtocart()[pri:5, instance:testpkg.Jewelryproducttest@45b4c3a9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.Jewelryproducttest -->
+      <class name="testpkg.Electronicsproducttest">
+        <test-method signature="electroclicking()[pri:1, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:40:10 IST" name="electroclicking" finished-at="2026-08-19T23:40:14 IST" duration-ms="3780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- electroclicking -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:40:14 IST" name="browserClose" finished-at="2026-08-19T23:40:14 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=electroclicking status=SUCCESS method=Electronicsproducttest.electroclicking()[pri:1, instance:testpkg.Electronicsproducttest@707194ba] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="cameraclickingg()[pri:2, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:40:14 IST" name="cameraclickingg" finished-at="2026-08-19T23:40:15 IST" duration-ms="1531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cameraclickingg -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:40:15 IST" name="browserClose" finished-at="2026-08-19T23:40:15 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cameraclickingg status=SUCCESS method=Electronicsproducttest.cameraclickingg()[pri:2, instance:testpkg.Electronicsproducttest@707194ba] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="Addtocartbuttonisdisplayed()[pri:3, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:40:15 IST" name="Addtocartbuttonisdisplayed" finished-at="2026-08-19T23:40:57 IST" duration-ms="41874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addtocartbuttonisdisplayed -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:40:57 IST" name="browserClose" finished-at="2026-08-19T23:40:57 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Addtocartbuttonisdisplayed status=SUCCESS method=Electronicsproducttest.Addtocartbuttonisdisplayed()[pri:3, instance:testpkg.Electronicsproducttest@707194ba] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="cellphoneclickingg()[pri:4, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:40:57 IST" name="cellphoneclickingg" finished-at="2026-08-19T23:40:58 IST" duration-ms="1269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cellphoneclickingg -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:40:58 IST" name="browserClose" finished-at="2026-08-19T23:40:58 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cellphoneclickingg status=SUCCESS method=Electronicsproducttest.cellphoneclickingg()[pri:4, instance:testpkg.Electronicsproducttest@707194ba] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="cellphoneaddtocart()[pri:5, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:40:58 IST" name="cellphoneaddtocart" finished-at="2026-08-19T23:40:59 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cellphoneaddtocart -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:40:59 IST" name="browserClose" finished-at="2026-08-19T23:40:59 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cellphoneaddtocart status=SUCCESS method=Electronicsproducttest.cellphoneaddtocart()[pri:5, instance:testpkg.Electronicsproducttest@707194ba] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="cellphoneaddtocart1()[pri:6, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:40:59 IST" name="cellphoneaddtocart1" finished-at="2026-08-19T23:41:02 IST" duration-ms="3853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cellphoneaddtocart1 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:41:02 IST" name="browserClose" finished-at="2026-08-19T23:41:02 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cellphoneaddtocart1 status=SUCCESS method=Electronicsproducttest.cellphoneaddtocart1()[pri:6, instance:testpkg.Electronicsproducttest@707194ba] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="cellphoneaddtocart2()[pri:7, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:41:02 IST" name="cellphoneaddtocart2" finished-at="2026-08-19T23:41:13 IST" duration-ms="10585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cellphoneaddtocart2 -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Electronicsproducttest@707194ba]" started-at="2026-08-19T23:41:13 IST" name="browserClose" finished-at="2026-08-19T23:41:13 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cellphoneaddtocart2 status=SUCCESS method=Electronicsproducttest.cellphoneaddtocart2()[pri:7, instance:testpkg.Electronicsproducttest@707194ba] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.Electronicsproducttest -->
+      <class name="testpkg.Digitaldownloadsproducttest">
+        <test-method signature="apparelandshoesclick()[pri:1, instance:testpkg.Digitaldownloadsproducttest@6a2f6f80]" started-at="2026-08-19T23:48:28 IST" name="apparelandshoesclick" finished-at="2026-08-19T23:48:35 IST" duration-ms="6828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apparelandshoesclick -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Digitaldownloadsproducttest@6a2f6f80]" started-at="2026-08-19T23:48:35 IST" name="browserClose" finished-at="2026-08-19T23:48:35 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=apparelandshoesclick status=SUCCESS method=Digitaldownloadsproducttest.apparelandshoesclick()[pri:1, instance:testpkg.Digitaldownloadsproducttest@6a2f6f80] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="additemstocart()[pri:2, instance:testpkg.Digitaldownloadsproducttest@6a2f6f80]" started-at="2026-08-19T23:48:35 IST" name="additemstocart" finished-at="2026-08-19T23:48:50 IST" duration-ms="15295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additemstocart -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testpkg.Digitaldownloadsproducttest@6a2f6f80]" started-at="2026-08-19T23:48:50 IST" name="browserClose" finished-at="2026-08-19T23:48:50 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=additemstocart status=SUCCESS method=Digitaldownloadsproducttest.additemstocart()[pri:2, instance:testpkg.Digitaldownloadsproducttest@6a2f6f80] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- testpkg.Digitaldownloadsproducttest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

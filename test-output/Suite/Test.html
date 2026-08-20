@@ -1,0 +1,540 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>92/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Aug 19 23:36:52 IST 2026</td>
+</tr>
+<tr><td>Total time:</td><td>1380 seconds (1380820 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testpkg.Electronicsproducttest.cellphoneaddtocart1()'><b>cellphoneaddtocart1</b><br>Test class: testpkg.Electronicsproducttest</td>
+<td></td>
+<td>3</td>
+<td>testpkg.Electronicsproducttest@707194ba</td></tr>
+<tr>
+<td title='testpkg.Giftcardproducttest.giftcardaddtocart2()'><b>giftcardaddtocart2</b><br>Test class: testpkg.Giftcardproducttest</td>
+<td></td>
+<td>30</td>
+<td>testpkg.Giftcardproducttest@399c4be1</td></tr>
+<tr>
+<td title='testpkg.CheckoutdetailsTest.shippingmethod_validation()'><b>shippingmethod_validation</b><br>Test class: testpkg.CheckoutdetailsTest</td>
+<td></td>
+<td>2</td>
+<td>testpkg.CheckoutdetailsTest@8c3b9d</td></tr>
+<tr>
+<td title='testpkg.Computerproducttest.notebookaddtocart()'><b>notebookaddtocart</b><br>Test class: testpkg.Computerproducttest</td>
+<td></td>
+<td>3</td>
+<td>testpkg.Computerproducttest@75db5df9</td></tr>
+<tr>
+<td title='testpkg.Searchbarsearchingtest.searchbarvalidation_with_validkeyword_electronics()'><b>searchbarvalidation_with_validkeyword_electronics</b><br>Test class: testpkg.Searchbarsearchingtest</td>
+<td></td>
+<td>7</td>
+<td>testpkg.Searchbarsearchingtest@4c39bec8</td></tr>
+<tr>
+<td title='testpkg.Myaccount_cutomerinfoTest.customerinfo()'><b>customerinfo</b><br>Test class: testpkg.Myaccount_cutomerinfoTest</td>
+<td></td>
+<td>26</td>
+<td>testpkg.Myaccount_cutomerinfoTest@385e9564</td></tr>
+<tr>
+<td title='testpkg.Searchbarsearchingtest.searchbarvalidation_with_validkeyword_books()'><b>searchbarvalidation_with_validkeyword_books</b><br>Test class: testpkg.Searchbarsearchingtest</td>
+<td></td>
+<td>12</td>
+<td>testpkg.Searchbarsearchingtest@4c39bec8</td></tr>
+<tr>
+<td title='testpkg.CheckoutdetailsTest.billingadress_validation()'><b>billingadress_validation</b><br>Test class: testpkg.CheckoutdetailsTest</td>
+<td></td>
+<td>2</td>
+<td>testpkg.CheckoutdetailsTest@8c3b9d</td></tr>
+<tr>
+<td title='testpkg.Logintest.fetchtitle()'><b>fetchtitle</b><br>Test class: testpkg.Logintest</td>
+<td></td>
+<td>0</td>
+<td>testpkg.Logintest@7530ad9c</td></tr>
+<tr>
+<td title='testpkg.Electronicsproducttest.cellphoneclickingg()'><b>cellphoneclickingg</b><br>Test class: testpkg.Electronicsproducttest</td>
+<td></td>
+<td>1</td>
+<td>testpkg.Electronicsproducttest@707194ba</td></tr>
+<tr>
+<td title='testpkg.CheckoutdetailsTest.paymentmethodinfo_validation()'><b>paymentmethodinfo_validation</b><br>Test class: testpkg.CheckoutdetailsTest</td>
+<td></td>
+<td>2</td>
+<td>testpkg.CheckoutdetailsTest@8c3b9d</td></tr>
+<tr>
+<td title='testpkg.Electronicsproducttest.electroclicking()'><b>electroclicking</b><br>Test class: testpkg.Electronicsproducttest</td>
+<td></td>
+<td>3</td>
+<td>testpkg.Electronicsproducttest@707194ba</td></tr>
+<tr>
+<td title='testpkg.Booksproducttest.additemtocarts()'><b>additemtocarts</b><br>Test class: testpkg.Booksproducttest</td>
+<td></td>
+<td>9</td>
+<td>testpkg.Booksproducttest@33c911a1</td></tr>
+<tr>
+<td title='testpkg.emailafriendtest.emailafriendvalidation()'><b>emailafriendvalidation</b><br>Test class: testpkg.emailafriendtest</td>
+<td></td>
+<td>12</td>
+<td>testpkg.emailafriendtest@291caca8</td></tr>
+<tr>
+<td title='testpkg.Digitaldownloadsproducttest.additemstocart()'><b>additemstocart</b><br>Test class: testpkg.Digitaldownloadsproducttest</td>
+<td></td>
+<td>15</td>
+<td>testpkg.Digitaldownloadsproducttest@6a2f6f80</td></tr>
+<tr>
+<td title='testpkg.Logintest.forgetpass()'><b>forgetpass</b><br>Test class: testpkg.Logintest</td>
+<td></td>
+<td>5</td>
+<td>testpkg.Logintest@7530ad9c</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt9()'><b>addtocartprdt9</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>36</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.Myaccount_cutomerinfoTest.newaddress()'><b>newaddress</b><br>Test class: testpkg.Myaccount_cutomerinfoTest</td>
+<td></td>
+<td>68</td>
+<td>testpkg.Myaccount_cutomerinfoTest@385e9564</td></tr>
+<tr>
+<td title='testpkg.Myaccount_cutomerinfoTest.backinstocksubscriptions()'><b>backinstocksubscriptions</b><br>Test class: testpkg.Myaccount_cutomerinfoTest</td>
+<td></td>
+<td>4</td>
+<td>testpkg.Myaccount_cutomerinfoTest@385e9564</td></tr>
+<tr>
+<td title='testpkg.Giftcardproducttest.giftcardaddtocart4()'><b>giftcardaddtocart4</b><br>Test class: testpkg.Giftcardproducttest</td>
+<td></td>
+<td>34</td>
+<td>testpkg.Giftcardproducttest@399c4be1</td></tr>
+<tr>
+<td title='testpkg.Giftcardproducttest.giftcardaddtocart1()'><b>giftcardaddtocart1</b><br>Test class: testpkg.Giftcardproducttest</td>
+<td></td>
+<td>31</td>
+<td>testpkg.Giftcardproducttest@399c4be1</td></tr>
+<tr>
+<td title='testpkg.Giftcardproducttest.giftcardaddtocart3()'><b>giftcardaddtocart3</b><br>Test class: testpkg.Giftcardproducttest</td>
+<td></td>
+<td>32</td>
+<td>testpkg.Giftcardproducttest@399c4be1</td></tr>
+<tr>
+<td title='testpkg.CheckoutdetailsTest.checkout_validation()'><b>checkout_validation</b><br>Test class: testpkg.CheckoutdetailsTest</td>
+<td></td>
+<td>10</td>
+<td>testpkg.CheckoutdetailsTest@8c3b9d</td></tr>
+<tr>
+<td title='testpkg.Producthometest.logoverification()'><b>logoverification</b><br>Test class: testpkg.Producthometest</td>
+<td></td>
+<td>7</td>
+<td>testpkg.Producthometest@65d09a04</td></tr>
+<tr>
+<td title='testpkg.Shoppingcart_test.dropdown_country_state()'><b>dropdown_country_state</b><br>Test class: testpkg.Shoppingcart_test</td>
+<td></td>
+<td>2</td>
+<td>testpkg.Shoppingcart_test@5b94b04d</td></tr>
+<tr>
+<td title='testpkg.Searchbarsearchingtest.searchbarvalidation_with_validkeyword_jewelry()'><b>searchbarvalidation_with_validkeyword_jewelry</b><br>Test class: testpkg.Searchbarsearchingtest</td>
+<td></td>
+<td>13</td>
+<td>testpkg.Searchbarsearchingtest@4c39bec8</td></tr>
+<tr>
+<td title='testpkg.Myaccount_cutomerinfoTest.orders()'><b>orders</b><br>Test class: testpkg.Myaccount_cutomerinfoTest</td>
+<td></td>
+<td>4</td>
+<td>testpkg.Myaccount_cutomerinfoTest@385e9564</td></tr>
+<tr>
+<td title='testpkg.Booksproducttest.booksclicking()'><b>booksclicking</b><br>Test class: testpkg.Booksproducttest</td>
+<td></td>
+<td>7</td>
+<td>testpkg.Booksproducttest@33c911a1</td></tr>
+<tr>
+<td title='testpkg.Computerproducttest.compclicking()'><b>compclicking</b><br>Test class: testpkg.Computerproducttest</td>
+<td></td>
+<td>4</td>
+<td>testpkg.Computerproducttest@75db5df9</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt5()'><b>addtocartprdt5</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>33</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt7()'><b>addtocartprdt7</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>34</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt10()'><b>addtocartprdt10</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>34</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.Digitaldownloadsproducttest.apparelandshoesclick()'><b>apparelandshoesclick</b><br>Test class: testpkg.Digitaldownloadsproducttest</td>
+<td></td>
+<td>6</td>
+<td>testpkg.Digitaldownloadsproducttest@6a2f6f80</td></tr>
+<tr>
+<td title='testpkg.Electronicsproducttest.cellphoneaddtocart()'><b>cellphoneaddtocart</b><br>Test class: testpkg.Electronicsproducttest</td>
+<td></td>
+<td>0</td>
+<td>testpkg.Electronicsproducttest@707194ba</td></tr>
+<tr>
+<td title='testpkg.Myaccount_cutomerinfoTest.passordchange()'><b>passordchange</b><br>Test class: testpkg.Myaccount_cutomerinfoTest</td>
+<td></td>
+<td>13</td>
+<td>testpkg.Myaccount_cutomerinfoTest@385e9564</td></tr>
+<tr>
+<td title='testpkg.Searchbarsearchingtest.searchbarvalidation_with_invalidkeyword()'><b>searchbarvalidation_with_invalidkeyword</b><br>Test class: testpkg.Searchbarsearchingtest</td>
+<td></td>
+<td>17</td>
+<td>testpkg.Searchbarsearchingtest@4c39bec8</td></tr>
+<tr>
+<td title='testpkg.CheckoutdetailsTest.checkoutlast_confirm()'><b>checkoutlast_confirm</b><br>Test class: testpkg.CheckoutdetailsTest</td>
+<td></td>
+<td>6</td>
+<td>testpkg.CheckoutdetailsTest@8c3b9d</td></tr>
+<tr>
+<td title='testpkg.Logintest.registerbtnclickFromlogin()'><b>registerbtnclickFromlogin</b><br>Test class: testpkg.Logintest</td>
+<td></td>
+<td>3</td>
+<td>testpkg.Logintest@7530ad9c</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt1()'><b>addtocartprdt1</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>20</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.Jewelryproducttest.jewelry5addtocart()'><b>jewelry5addtocart</b><br>Test class: testpkg.Jewelryproducttest</td>
+<td></td>
+<td>8</td>
+<td>testpkg.Jewelryproducttest@45b4c3a9</td></tr>
+<tr>
+<td title='testpkg.Searchbarsearchingtest.searchbarvalidation_with_validkeyword_apparel()'><b>searchbarvalidation_with_validkeyword_apparel</b><br>Test class: testpkg.Searchbarsearchingtest</td>
+<td></td>
+<td>6</td>
+<td>testpkg.Searchbarsearchingtest@4c39bec8</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt4()'><b>addtocartprdt4</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>1</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.Myaccount_cutomerinfoTest.rewardpoints()'><b>rewardpoints</b><br>Test class: testpkg.Myaccount_cutomerinfoTest</td>
+<td></td>
+<td>4</td>
+<td>testpkg.Myaccount_cutomerinfoTest@385e9564</td></tr>
+<tr>
+<td title='testpkg.Booksproducttest.sorting()'><b>sorting</b><br>Test class: testpkg.Booksproducttest</td>
+<td></td>
+<td>24</td>
+<td>testpkg.Booksproducttest@33c911a1</td></tr>
+<tr>
+<td title='testpkg.Computerproducttest.accessoriesAddtocart()'><b>accessoriesAddtocart</b><br>Test class: testpkg.Computerproducttest</td>
+<td></td>
+<td>3</td>
+<td>testpkg.Computerproducttest@75db5df9</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt3()'><b>addtocartprdt3</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>67</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.Jewelryproducttest.Jewelrypagevalidation()'><b>Jewelrypagevalidation</b><br>Test class: testpkg.Jewelryproducttest</td>
+<td></td>
+<td>7</td>
+<td>testpkg.Jewelryproducttest@45b4c3a9</td></tr>
+<tr>
+<td title='testpkg.Computerproducttest.desktopclicking()'><b>desktopclicking</b><br>Test class: testpkg.Computerproducttest</td>
+<td></td>
+<td>1</td>
+<td>testpkg.Computerproducttest@75db5df9</td></tr>
+<tr>
+<td title='testpkg.Logintest.valueset()'><b>valueset</b><br>Test class: testpkg.Logintest</td>
+<td></td>
+<td>21</td>
+<td>testpkg.Logintest@7530ad9c</td></tr>
+<tr>
+<td title='testpkg.Producthometest.newslettersubscribe()'><b>newslettersubscribe</b><br>Test class: testpkg.Producthometest</td>
+<td></td>
+<td>3</td>
+<td>testpkg.Producthometest@65d09a04</td></tr>
+<tr>
+<td title='testpkg.Logintest.clicklogin()'><b>clicklogin</b><br>Test class: testpkg.Logintest</td>
+<td></td>
+<td>0</td>
+<td>testpkg.Logintest@7530ad9c</td></tr>
+<tr>
+<td title='testpkg.Jewelryproducttest.jewelry3addtocart()'><b>jewelry3addtocart</b><br>Test class: testpkg.Jewelryproducttest</td>
+<td></td>
+<td>5</td>
+<td>testpkg.Jewelryproducttest@45b4c3a9</td></tr>
+<tr>
+<td title='testpkg.Searchbarsearchingtest.searchbarvalidation_with_validkeyword_digital()'><b>searchbarvalidation_with_validkeyword_digital</b><br>Test class: testpkg.Searchbarsearchingtest</td>
+<td></td>
+<td>6</td>
+<td>testpkg.Searchbarsearchingtest@4c39bec8</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt12()'><b>addtocartprdt12</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>49</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.CheckoutdetailsTest.to_orderdetails_validation()'><b>to_orderdetails_validation</b><br>Test class: testpkg.CheckoutdetailsTest</td>
+<td></td>
+<td>3</td>
+<td>testpkg.CheckoutdetailsTest@8c3b9d</td></tr>
+<tr>
+<td title='testpkg.CheckoutdetailsTest.ordersuccessfull_validaton()'><b>ordersuccessfull_validaton</b><br>Test class: testpkg.CheckoutdetailsTest</td>
+<td></td>
+<td>4</td>
+<td>testpkg.CheckoutdetailsTest@8c3b9d</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt8()'><b>addtocartprdt8</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>33</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.CheckoutdetailsTest.reorder_validation()'><b>reorder_validation</b><br>Test class: testpkg.CheckoutdetailsTest</td>
+<td></td>
+<td>8</td>
+<td>testpkg.CheckoutdetailsTest@8c3b9d</td></tr>
+<tr>
+<td title='testpkg.Computerproducttest.sortingincomp()'><b>sortingincomp</b><br>Test class: testpkg.Computerproducttest</td>
+<td></td>
+<td>26</td>
+<td>testpkg.Computerproducttest@75db5df9</td></tr>
+<tr>
+<td title='testpkg.Jewelryproducttest.jewelry2addtocart()'><b>jewelry2addtocart</b><br>Test class: testpkg.Jewelryproducttest</td>
+<td></td>
+<td>8</td>
+<td>testpkg.Jewelryproducttest@45b4c3a9</td></tr>
+<tr>
+<td title='testpkg.Shoppingcart_test.shoppingcart_validation()'><b>shoppingcart_validation</b><br>Test class: testpkg.Shoppingcart_test</td>
+<td></td>
+<td>10</td>
+<td>testpkg.Shoppingcart_test@5b94b04d</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt13()'><b>addtocartprdt13</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>17</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.Myaccount_cutomerinfoTest.address()'><b>address</b><br>Test class: testpkg.Myaccount_cutomerinfoTest</td>
+<td></td>
+<td>14</td>
+<td>testpkg.Myaccount_cutomerinfoTest@385e9564</td></tr>
+<tr>
+<td title='testpkg.CheckoutdetailsTest.orderplacement()'><b>orderplacement</b><br>Test class: testpkg.CheckoutdetailsTest</td>
+<td></td>
+<td>9</td>
+<td>testpkg.CheckoutdetailsTest@8c3b9d</td></tr>
+<tr>
+<td title='testpkg.emailafriendtest.friendsemail_and_personalmsgvalidation()'><b>friendsemail_and_personalmsgvalidation</b><br>Test class: testpkg.emailafriendtest</td>
+<td></td>
+<td>38</td>
+<td>testpkg.emailafriendtest@291caca8</td></tr>
+<tr>
+<td title='testpkg.Shoppingcart_test.checkout_test()'><b>checkout_test</b><br>Test class: testpkg.Shoppingcart_test</td>
+<td></td>
+<td>4</td>
+<td>testpkg.Shoppingcart_test@5b94b04d</td></tr>
+<tr>
+<td title='testpkg.Shoppingcart_test.giftcard_validationtest()'><b>giftcard_validationtest</b><br>Test class: testpkg.Shoppingcart_test</td>
+<td></td>
+<td>6</td>
+<td>testpkg.Shoppingcart_test@5b94b04d</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt11()'><b>addtocartprdt11</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>33</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.Searchbarsearchingtest.searchbarvalidation_with_validkeyword_computers()'><b>searchbarvalidation_with_validkeyword_computers</b><br>Test class: testpkg.Searchbarsearchingtest</td>
+<td></td>
+<td>14</td>
+<td>testpkg.Searchbarsearchingtest@4c39bec8</td></tr>
+<tr>
+<td title='testpkg.Logintest.logoverification()'><b>logoverification</b><br>Test class: testpkg.Logintest</td>
+<td></td>
+<td>0</td>
+<td>testpkg.Logintest@7530ad9c</td></tr>
+<tr>
+<td title='testpkg.Giftcardproducttest.Jewelrypagevalidation()'><b>Jewelrypagevalidation</b><br>Test class: testpkg.Giftcardproducttest</td>
+<td></td>
+<td>8</td>
+<td>testpkg.Giftcardproducttest@399c4be1</td></tr>
+<tr>
+<td title='testpkg.Searchbarsearchingtest.searchbarvalidation_with_validkeyword_giftcard()'><b>searchbarvalidation_with_validkeyword_giftcard</b><br>Test class: testpkg.Searchbarsearchingtest</td>
+<td></td>
+<td>13</td>
+<td>testpkg.Searchbarsearchingtest@4c39bec8</td></tr>
+<tr>
+<td title='testpkg.Logintest.buttontextverification()'><b>buttontextverification</b><br>Test class: testpkg.Logintest</td>
+<td></td>
+<td>0</td>
+<td>testpkg.Logintest@7530ad9c</td></tr>
+<tr>
+<td title='testpkg.Electronicsproducttest.Addtocartbuttonisdisplayed()'><b>Addtocartbuttonisdisplayed</b><br>Test class: testpkg.Electronicsproducttest</td>
+<td></td>
+<td>41</td>
+<td>testpkg.Electronicsproducttest@707194ba</td></tr>
+<tr>
+<td title='testpkg.Computerproducttest.verifyProductImageTest()'><b>verifyProductImageTest</b><br>Test class: testpkg.Computerproducttest</td>
+<td></td>
+<td>5</td>
+<td>testpkg.Computerproducttest@75db5df9</td></tr>
+<tr>
+<td title='testpkg.Producthometest.additem()'><b>additem</b><br>Test class: testpkg.Producthometest</td>
+<td></td>
+<td>42</td>
+<td>testpkg.Producthometest@65d09a04</td></tr>
+<tr>
+<td title='testpkg.CheckoutdetailsTest.paymentmethod_selection()'><b>paymentmethod_selection</b><br>Test class: testpkg.CheckoutdetailsTest</td>
+<td></td>
+<td>2</td>
+<td>testpkg.CheckoutdetailsTest@8c3b9d</td></tr>
+<tr>
+<td title='testpkg.Shoppingcart_test.updatecart_after_delete()'><b>updatecart_after_delete</b><br>Test class: testpkg.Shoppingcart_test</td>
+<td></td>
+<td>7</td>
+<td>testpkg.Shoppingcart_test@5b94b04d</td></tr>
+<tr>
+<td title='testpkg.AllLinksTest.alllinksvalidation()'><b>alllinksvalidation</b><br>Test class: testpkg.AllLinksTest</td>
+<td></td>
+<td>6</td>
+<td>testpkg.AllLinksTest@f79e</td></tr>
+<tr>
+<td title='testpkg.Jewelryproducttest.jewelry1addtocart()'><b>jewelry1addtocart</b><br>Test class: testpkg.Jewelryproducttest</td>
+<td></td>
+<td>8</td>
+<td>testpkg.Jewelryproducttest@45b4c3a9</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt6()'><b>addtocartprdt6</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>28</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.Shoppingcart_test.applycounpon_validationtest()'><b>applycounpon_validationtest</b><br>Test class: testpkg.Shoppingcart_test</td>
+<td></td>
+<td>2</td>
+<td>testpkg.Shoppingcart_test@5b94b04d</td></tr>
+<tr>
+<td title='testpkg.Electronicsproducttest.cameraclickingg()'><b>cameraclickingg</b><br>Test class: testpkg.Electronicsproducttest</td>
+<td></td>
+<td>1</td>
+<td>testpkg.Electronicsproducttest@707194ba</td></tr>
+<tr>
+<td title='testpkg.CheckoutdetailsTest.shippingaddress_validation()'><b>shippingaddress_validation</b><br>Test class: testpkg.CheckoutdetailsTest</td>
+<td></td>
+<td>2</td>
+<td>testpkg.CheckoutdetailsTest@8c3b9d</td></tr>
+<tr>
+<td title='testpkg.Computerproducttest.desktopPrdtaddtocart()'><b>desktopPrdtaddtocart</b><br>Test class: testpkg.Computerproducttest</td>
+<td></td>
+<td>20</td>
+<td>testpkg.Computerproducttest@75db5df9</td></tr>
+<tr>
+<td title='testpkg.Myaccount_cutomerinfoTest.address_existingvalueschange()'><b>address_existingvalueschange</b><br>Test class: testpkg.Myaccount_cutomerinfoTest</td>
+<td></td>
+<td>68</td>
+<td>testpkg.Myaccount_cutomerinfoTest@385e9564</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.addtocartprdt2()'><b>addtocartprdt2</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>36</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.Apparelproducttest.apparelandshoesclick()'><b>apparelandshoesclick</b><br>Test class: testpkg.Apparelproducttest</td>
+<td></td>
+<td>6</td>
+<td>testpkg.Apparelproducttest@1190200a</td></tr>
+<tr>
+<td title='testpkg.Myaccount_cutomerinfoTest.downloadableprdt()'><b>downloadableprdt</b><br>Test class: testpkg.Myaccount_cutomerinfoTest</td>
+<td></td>
+<td>33</td>
+<td>testpkg.Myaccount_cutomerinfoTest@385e9564</td></tr>
+<tr>
+<td title='testpkg.Electronicsproducttest.cellphoneaddtocart2()'><b>cellphoneaddtocart2</b><br>Test class: testpkg.Electronicsproducttest</td>
+<td></td>
+<td>10</td>
+<td>testpkg.Electronicsproducttest@707194ba</td></tr>
+<tr>
+<td title='testpkg.Jewelryproducttest.jewelry4addtocart()'><b>jewelry4addtocart</b><br>Test class: testpkg.Jewelryproducttest</td>
+<td></td>
+<td>5</td>
+<td>testpkg.Jewelryproducttest@45b4c3a9</td></tr>
+<tr>
+<td title='testpkg.Myaccount_cutomerinfoTest.emailafriendvalidation()'><b>emailafriendvalidation</b><br>Test class: testpkg.Myaccount_cutomerinfoTest</td>
+<td></td>
+<td>7</td>
+<td>testpkg.Myaccount_cutomerinfoTest@385e9564</td></tr>
+</table><p>
+</body>
+</html>
